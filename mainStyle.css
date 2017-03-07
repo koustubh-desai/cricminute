@@ -1,7 +1,9 @@
 ul, ol, ul li, ol li{
   list-style:none;
 }
- img{
- width:100%;
-   height:auto;
+
+img{
+  width:100%;
+  height:auto;
+  float:left;
 }
